@@ -1,2 +1,2 @@
-# PRODIGY_WD_01
-First task for the Prodigy Infotech web development internship
+# PORTFOLIO_LANDING_PAGE
+made a interactive landing page using html, css and vanilla javascript
